@@ -232,3 +232,17 @@ footer{
     margin-top: 135PX;
 
 }
+/* pag camisetas */
+#camisetas .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 135PX;
+
+}
+/* pag logos */
+#logos .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 135PX;
+
+}
