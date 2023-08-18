@@ -1,6 +1,6 @@
 #logo{
-    width: 400px;
-    height: 200px;
+    width: 150px;
+    height: 150px;
 }
 #menu{
     background-color:rgb(14, 2, 2) !important;
@@ -239,18 +239,45 @@ footer{
     margin-top: 135PX;
 
 }
+/* camisetas */
+#camisetas{
+    background-color: rgb(134, 231, 44) !important;
+}
 /* pag logos */
 #logos .titulo{
     width: 100%;
     text-align: center;
     margin-top: 135PX;
+    #camisetas anime{
+        background-color: blueviolet;
+    }
+}
 
-}/* pag buzos */
+#logos {
+    background-color: rgb(19, 203, 209);
+}
+
+/* pag buzos */
 #buzos .titulo{
     width: 100%;
     text-align: center;
     margin-top: 135PX;
 }
 
+/* pagos */
+#pagos .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 135PX;
 
+}
+/* pagos*/
+#pagos{
+    background-color: rgb(175, 40, 16) !important;
+}
+/* domicilios */
+#domicilios .titulo{
+    width: 100%;
+    text-align: center;
+    margin-top: 135PX;
 
